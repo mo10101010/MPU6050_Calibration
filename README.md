@@ -1,5 +1,4 @@
 # MPU6050_Calibration
-- - -
 ##Parts needed
  - Development board as Arduino or ESP-32
  - MPU6050, it has 6 axis, 3 gyroscope + 3 accelerometer
